@@ -3,7 +3,7 @@ A simple yet powerful Chrome Extension that lets you save potential customer lea
 
 📌 Description
 
-Lead Saver helps you capture and store useful links instantly—without breaking your workflow.
+Lead Saver helps you capture and store useful links instantly without breaking your workflow.
 
 Whether you're scouting clients on LinkedIn, Twitter, or any platform, this extension allows you to:
 
